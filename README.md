@@ -1,3 +1,5 @@
+![This is an image](https://i.ibb.co/Jp8VdgP/Screenshot-1.png)
+
 ## Descrição
 A empresa de telefonia Telzir, especializada em chamadas de longa distância nacional,
 vai colocar um novo produto no mercado chamado FaleMais. Normalmente um cliente
